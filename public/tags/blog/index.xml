@@ -17,12 +17,11 @@
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/06/25/how-to-make-a-web-site/</guid>
-      <description>https://bookdown.org/yihui/blogdown/workflow.html
-RStudio
- make a new project blogdown::serve_site()  To start a new website:
-Carefully pick a theme at http://themes.gohugo.io, and find the link to its GitHub repository, which is of the form https://github.com/user/repo.
-Create a new project in RStudio, and type the code blogdown::new_site(theme = ‘user/repo’) in the R console, where user/repo is from the link in Step 1.
-Play with the new site for a while and if you do not like it, you can repeat the above steps, otherwise edit the options in config.</description>
+      <description>ref: https://bookdown.org/yihui/blogdown/workflow.html
+To start a new website:
+ prn&amp;gt; pick a theme at http://themes.gohugo.io, and find the link to its GitHub repository, which is of the form https://github.com/user/repo.  RStudio
+ make a new project blogdown::new_site(theme = ‘user/repo’) blogdown::serve_site()  To edit a website:
+ Use the “New Post” addin to create a new post or page Use the “Update Metadata” addin to modify the YAML metadata if necessary.  To publish a website if you are not familiar with GIT or GitHub:</description>
     </item>
     
   </channel>
