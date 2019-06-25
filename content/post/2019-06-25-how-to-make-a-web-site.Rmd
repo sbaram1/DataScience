@@ -10,6 +10,11 @@ tags:
 
 https://bookdown.org/yihui/blogdown/workflow.html
 
+RStudio
+
+  - make a new project
+  - blogdown::serve_site()
+
 To start a new website:
 
 Carefully pick a theme at http://themes.gohugo.io, and find the link to its GitHub repository, which is of the form https://github.com/user/repo.
@@ -35,3 +40,7 @@ Log into https://www.netlify.com (you can use a GitHub account if you have one).
 Wait for a few seconds for Netlify to deploy the files, and it will assign a random subdomain of the form random-word-12345.netlify.com to you. You can (and should) change this random subdomain to a more meaningful one if it is still available.
 
 It can be much easier to publish a website if you are familiar with GIT and GitHub. We recommend that you create a new site on Netlify from your GitHub repository that contains the source files of your website, so that you can enjoy the benefits of continuous deployment instead of manually uploading the public/ folder every time. With this approach, you do not need to run blogdown::hugo_build() locally, because the website can be built on Netlify via Hugo. See Chapter 3 for more information.
+
+Global option settting
+  - file.edit("~/.Rprofile")
+  - options(blogdown.ext = ".Rmd", blogdown.author = "John Doe")
