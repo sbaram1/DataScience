@@ -1,27 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Data Science and Neurology website</title>
+    <title>blog on Academic</title>
     <link>/tags/blog/</link>
-    <description>Recent content in blog on Data Science and Neurology website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in blog on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to make a web site</title>
-      <link>/2019/06/25/how-to-make-a-web-site/</link>
+      <link>/post/how-to-make-a-web-site/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/06/25/how-to-make-a-web-site/</guid>
-      <description>ref: https://bookdown.org/yihui/blogdown/workflow.html
-To start a new website:
- prn&amp;gt; pick a theme at http://themes.gohugo.io, and find the link to its GitHub repository, which is of the form https://github.com/user/repo.  RStudio
- make a new project blogdown::new_site(theme = ‘user/repo’) blogdown::serve_site()  To edit a website:
- Use the “New Post” addin to create a new post or page Use the “Update Metadata” addin to modify the YAML metadata if necessary.  To publish a website if you are not familiar with GIT or GitHub:</description>
+      <guid>/post/how-to-make-a-web-site/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;reference&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/workflow.html&#34; class=&#34;uri&#34;&gt;https://bookdown.org/yihui/blogdown/workflow.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&#34; class=&#34;uri&#34;&gt;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To start a new website:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;prn&amp;gt; pick a theme at &lt;a href=&#34;http://themes.gohugo.io&#34; class=&#34;uri&#34;&gt;http://themes.gohugo.io&lt;/a&gt;, and find the link to its GitHub repository, which is of the form &lt;a href=&#34;https://github.com/user/repo&#34; class=&#34;uri&#34;&gt;https://github.com/user/repo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;RStudio&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;make a new project&lt;/li&gt;
+&lt;li&gt;blogdown::new_site(theme = ‘user/repo’)&lt;/li&gt;
+&lt;li&gt;blogdown::serve_site()&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To edit a website:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use the “New Post” addin to create a new post or page&lt;/li&gt;
+&lt;li&gt;Use the “Update Metadata” addin to modify the YAML metadata if necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To publish a website if you are not familiar with GIT or GitHub:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Restart the R session, and run blogdown::hugo_build()&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You should get a public/ directory under the root directory of your project.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Log into &lt;a href=&#34;https://www.netlify.com&#34; class=&#34;uri&#34;&gt;https://www.netlify.com&lt;/a&gt; (you can use a GitHub account if you have one).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;from your GitHub repository&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You can (and should) change this random subdomain to a more meaningful one if it is still available.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Global option settting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;file.edit(“~/.Rprofile”)&lt;/li&gt;
+&lt;li&gt;options(blogdown.ext = “.Rmd”, blogdown.author = “John Doe”)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
