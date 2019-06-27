@@ -8,10 +8,7 @@ tags:
   - blog
 ---
 
-**reference**
-
-  - https://bookdown.org/yihui/blogdown/workflow.html
-  - https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/
+ref: https://bookdown.org/yihui/blogdown/workflow.html
 
 To start a new website:
 
