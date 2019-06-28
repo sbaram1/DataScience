@@ -6,20 +6,37 @@
     <description>Recent content in R on Data Science and Neurology website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Logistic regression</title>
+      <link>/2019/06/28/logistic-regression/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/2019/06/28/logistic-regression/</guid>
+      <description> Binary logistic regression Youtube video    Linear regression  Background  ordinary least squares    Logistic regerssion  Background
+ logistic function odds and odds ratio  Interpretation of coefficient
+ Exercise: R
+ R data manipulation
+ factor dplyr  descriptive
+ simple logistic regression
+ multivariable logistic regression
+ multi-collinearity: vif()
+     Ordinal logistic regression Youtube video    Example  Ordinal logistic regression  Underlying assumptions  proportional odds assumption  Exercise: R    </description>
+    </item>
+    
+    <item>
+      <title>Online course on statistics</title>
+      <link>/2019/06/28/online-course-on-statistics/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/28/online-course-on-statistics/</guid>
+      <description>온라인 통계 강의 역학연구회에서는 대한뇌졸중학회 회원들을 대상으로 R을 이용한 통계분석 workshop을 다년간 진행한 바 있습니다. 많은 회원들이 지속적인 호응을 보내주셨음에도 불구하고 offline으로 진행되는 workshop의 특성으로 인해, 강의 당일 현장에 참석하지 못한 분들로부터 동영상 요청이 많았습니다.
+이에 workshop 강의를 다시 정리하여 실습자료와 함께 게시합니다. 본 강의는 뇌졸중 역학 및 연구방법론에 활용할 수 있는 다양한 통계기법을 다루고 있으며, 연구자가 실무에서 직접 R을 활용하여 구현할 수 있도록 구성하였습니다.
+여러가지 제약으로 인해 많이 부족한 것이 사실이나, 이 강의를 통해 R을 이용한 통계 분석이 어렵지 않고 즐거운 것이 될 수 있음을 느끼셨으면 좋겠습니다.</description>
     </item>
     
   </channel>

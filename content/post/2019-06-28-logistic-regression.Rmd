@@ -1,0 +1,58 @@
+---
+title: Logistic regression
+author: Kwang-Yeol Park
+date: '2019-06-28'
+slug: logistic-regression
+categories:
+  - R
+tags:
+  - statistics
+---
+## Binary logistic regression
+
+### Youtube video
+
+```{r echo=FALSE}
+# blogdown::shortcode("youtube", "BIkmggffG9w")
+blogdown::shortcode("youtube", "Vak6Oat2Z88")
+```
+
+### Linear regression
+- Background
+  + ordinary least squares
+
+### Logistic regerssion
+- Background
+  + logistic function
+  + odds and odds ratio
+
+- Interpretation of coefficient
+
+- Exercise: R
+  + R data manipulation
+    - factor
+    - dplyr
+  + descriptive
+  + simple logistic regression
+  + multivariable logistic regression
+  
+  + multi-collinearity: vif()
+  
+  
+
+## Ordinal logistic regression
+
+### Youtube video
+
+```{r echo=FALSE}
+blogdown::shortcode("youtube", "nNFGbJW6_Ds")
+# blogdown::shortcode("youtube", "Vak6Oat2Z88")
+```
+
+### Example
+
+### Ordinal logistic regression
+- Underlying assumptions
+  + proportional odds assumption
+  
+- Exercise: R
