@@ -33,6 +33,11 @@ tags:
 
 ### **온라인 통계 강의**
 
+> “…just like war and generals, data is too important to leave to the data scientists.” [Peter Ellis]
+
+[Peter Ellis]:https://www.r-bloggers.com/too-important-to-leave-to-the-data-scientists-by-ellis2013nz/
+
+데이터는 중요하고, 데이터를 다루는 기술은 더 중요하다고 합니다. 
 역학연구회에서는 대한뇌졸중학회 회원들을 대상으로 R을 이용한 통계분석 workshop을 다년간 진행한 바 있습니다. 많은 회원들이 지속적인 호응을 보내주셨음에도 불구하고 offline으로 진행되는 workshop의 특성으로 인해, 강의 당일 현장에 참석하지 못한 분들로부터 동영상 요청이 많았습니다.  
 
 이에 workshop 강의를 다시 정리하여 실습자료와 함께 게시합니다. 본 강의는 뇌졸중 역학 및 연구방법론에 활용할 수 있는 다양한 통계기법을 다루고 있으며, 연구자가 실무에서 직접 R을 활용하여 구현할 수 있도록 구성하였습니다. 

@@ -24,6 +24,7 @@ blogdown::shortcode("youtube", "Vak6Oat2Z88")
 ### Logistic regerssion
 - Background
   + logistic function
+  + maximum likelihood method
   + odds and odds ratio
 
 - Interpretation of coefficient
@@ -36,7 +37,7 @@ blogdown::shortcode("youtube", "Vak6Oat2Z88")
   + simple logistic regression
   + multivariable logistic regression
   
-  + multi-collinearity: vif()
+  <!-- + multi-collinearity: vif() -->
   
   
 
