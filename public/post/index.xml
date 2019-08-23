@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Data Science and Neurology website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online R lecture - Youtube</title>
+      <link>/2019/08/23/online-r-lecture-youtube/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/23/online-r-lecture-youtube/</guid>
+      <description>Lecture 11. Logistric regression
+Lecture 11.1, Lecture 11.2, Lecture 11.3, Lecture 11.4, Lecture 11.5</description>
+    </item>
     
     <item>
       <title>Logistic regression</title>
@@ -18,7 +28,7 @@
       
       <guid>/2019/06/28/logistic-regression/</guid>
       <description> Binary logistic regression Youtube video    Linear regression  Background  ordinary least squares    Logistic regerssion  Background
- logistic function maximum likelihood method odds and odds ratio  Interpretation of coefficient
+ logistic function maximum likelihood method odds, odds ratio and relative risk  Interpretation of coefficient
  Exercise: R
  R data manipulation  factor dplyr  descriptive simple logistic regression multivariable logistic regression      Ordinal logistic regression Youtube video    Example  Ordinal logistic regression  Underlying assumptions  proportional odds assumption  Exercise: R    </description>
     </item>
@@ -29,9 +39,8 @@
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/06/28/online-course-on-statistics/</guid>
-      <description>온라인 통계 강의  “…just like war and generals, data is too important to leave to the data scientists.” Peter Ellis
- 데이터는 중요하고, 데이터를 다루는 기술은 더 중요하다고 합니다. 역학연구회에서는 대한뇌졸중학회 회원들을 대상으로 R을 이용한 통계분석 workshop을 다년간 진행한 바 있습니다. 많은 회원들이 지속적인 호응을 보내주셨음에도 불구하고 offline으로 진행되는 workshop의 특성으로 인해, 강의 당일 현장에 참석하지 못한 분들로부터 동영상 요청이 많았습니다.
-이에 workshop 강의를 다시 정리하여 실습자료와 함께 게시합니다.</description>
+      <description>온라인 통계 강의 “…just like war and generals, data is too important to leave to the data scientists.” [Peter Ellis] -- 데이터는 중요하고, 데이터를 다루는 기술은 더 중요하다고 합니다. 역학연구회에서는 대한뇌졸중학회 회원들을 대상으로 R을 이용한 통계분석 workshop을 다년간 진행한 바 있습니다. 많은 회원들이 지속적인 호응을 보내주셨음에도 불구하고 offline으로 진행되는 workshop의 특성으로 인해, 강의 당일 현장에 참석하지 못한 분들로부터 동영상 요청이 많았습니다.
+이에 workshop 강의를 다시 정리하여 실습자료와 함께 게시합니다. 본 강의는 뇌졸중 역학 및 연구방법론에 활용할 수 있는 다양한 통계기법을 다루고 있으며, 연구자가 실무에서 직접 R을 활용하여 구현할 수 있도록 구성하였습니다.</description>
     </item>
     
     <item>

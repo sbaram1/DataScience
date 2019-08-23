@@ -1,0 +1,27 @@
+---
+title: Online R lecture - Youtube
+author: Kwang-Yeol Park
+date: '2019-08-23'
+slug: online-r-lecture-youtube
+categories:
+  - R
+tags:
+  - statistics
+---
+
+Lecture 11. Logistric regression
+
+[Lecture 11.1][11.1], [Lecture 11.2][11.2], [Lecture 11.3][11.3], [Lecture 11.4][11.4], [Lecture 11.5][11.5]
+
+
+[11.1]: https://youtu.be/A5IPy0NuzD4
+
+[11.2]: https://youtu.be/aUZNCO4GDfQ
+
+[11.3]: https://youtu.be/-tM-RoI6tyI
+
+[11.4]: https://youtu.be/L47AlLm9G78
+
+[11.5]: https://youtu.be/zRBQ7C2LdOE
+
+			

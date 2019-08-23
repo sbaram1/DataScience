@@ -25,7 +25,7 @@ blogdown::shortcode("youtube", "Vak6Oat2Z88")
 - Background
   + logistic function
   + maximum likelihood method
-  + odds and odds ratio
+  + odds, odds ratio and relative risk
 
 - Interpretation of coefficient
 
